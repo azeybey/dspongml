@@ -14,3 +14,4 @@ Use it with default hyperparameters :
 ## Example
 
 
+![screen](https://user-images.githubusercontent.com/12528641/207007139-8fbd2cc0-4851-4785-bd53-7e8748736f49.gif)
